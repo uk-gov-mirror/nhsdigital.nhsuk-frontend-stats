@@ -3,7 +3,7 @@ The following table shows the current version of [NHSUK Frontend](https://github
 | Service | Frontend version | Installed version |
 | :------ | -------------------: | -------------------: |
 | [National document repository](https://github.com/NHSDigital/national-document-repository) | ^9.6.4 | 9.6.4 |
-| [NHS Digital service manual](https://github.com/nhsuk/nhsuk-service-manual) | ^10.5.1 | 10.5.1 |
+| [NHS Digital service manual](https://github.com/nhsuk/nhsuk-service-manual) | ^10.5.2 | 10.5.2 |
 | [Manage breast screening](https://github.com/NHSDigital/dtos-manage-breast-screening) | ^10.4.2 | 10.4.2 |
 | [Manage vaccinations in schools](https://github.com/nhsuk/manage-vaccinations-in-schools) | ^10.4.2 | 10.4.2 |
 | [Vaccinations in the app](https://github.com/NHSDigital/vaccinations-app) | ^10.4.2 | 10.4.2 |
