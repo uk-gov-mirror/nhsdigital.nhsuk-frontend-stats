@@ -9,8 +9,8 @@
     {
       "name": "NHS Digital service manual",
       "github": "https://github.com/nhsuk/nhsuk-service-manual",
-      "nhsukFrontendVersion": "github:nhsuk/nhsuk-frontend#24109db0f",
-      "nhsFrontendVersionPackageLock": "10.5.2-preview-sortable-table"
+      "nhsukFrontendVersion": "^10.6.0",
+      "nhsFrontendVersionPackageLock": "10.6.0"
     },
     {
       "name": "Manage breast screening",
