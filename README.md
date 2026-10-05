@@ -28,4 +28,4 @@ The following table shows the current version of [NHSUK Frontend](https://github
 | [NHS Notify Web CMS](https://github.com/NHSDigital/nhs-notify-web-cms) | ^10.1.0 | 10.1.0 |
 | [EHIC and GHIC](https://github.com/nhsbsa/ehic-ghic) | ^10.0.0 | 10.0.0 |
 | [Pensions Redundancy Calculator](https://github.com/nhsbsa/pensions-redundancy-calculator) | ^10.0.0 | 10.0.0 |
-| [NHS Prototype kit docs](https://github.com/nhsuk/nhsuk.service-manual.prototype-kit.docs) |  | 10.4.2 |
+| [NHS Prototype kit docs](https://github.com/nhsuk/nhsuk.service-manual.prototype-kit.docs) |  | 10.6.1 |
