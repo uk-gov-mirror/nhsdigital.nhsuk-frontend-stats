@@ -116,7 +116,7 @@
     {
       "name": "HRT Prepayment Certificate",
       "github": "https://github.com/nhsbsa/HRT-PPC",
-      "nhsukFrontendVersion": "^10.5.2",
+      "nhsukFrontendVersion": "^10.6.0",
       "nhsFrontendVersionPackageLock": "10.6.0"
     },
     {
@@ -128,14 +128,14 @@
     {
       "name": "Maternity Exemption (MatEx)",
       "github": "https://github.com/nhsbsa/nhsuk-matex",
-      "nhsukFrontendVersion": "^10.3.1",
-      "nhsFrontendVersionPackageLock": "10.3.1"
+      "nhsukFrontendVersion": "^10.6.0",
+      "nhsFrontendVersionPackageLock": "10.6.1"
     },
     {
       "name": "Exemption Checker",
       "github": "https://github.com/nhsbsa/exemption-checker",
-      "nhsukFrontendVersion": "^10.3.1",
-      "nhsFrontendVersionPackageLock": "10.3.1"
+      "nhsukFrontendVersion": "^10.6.0",
+      "nhsFrontendVersionPackageLock": "10.6.1"
     },
     {
       "name": "Additional Pensions Calculator",
