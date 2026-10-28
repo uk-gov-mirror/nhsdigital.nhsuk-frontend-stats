@@ -3,8 +3,8 @@
     {
       "name": "NHS Digital service manual",
       "github": "https://github.com/nhsuk/nhsuk-service-manual",
-      "nhsukFrontendVersion": "^10.6.1",
-      "nhsFrontendVersionPackageLock": "10.6.1"
+      "nhsukFrontendVersion": "^10.7.0",
+      "nhsFrontendVersionPackageLock": "10.7.0"
     },
     {
       "name": "NHS Prototype kit docs",
@@ -35,8 +35,8 @@
     {
       "name": "NHS.UK Frontend Jinja",
       "github": "https://github.com/NHSDigital/nhsuk-frontend-jinja",
-      "nhsFrontendVersionPackageLock": "10.6.1",
-      "nhsukFrontendVersion": "^10.6.1"
+      "nhsFrontendVersionPackageLock": "10.7.0",
+      "nhsukFrontendVersion": "^10.7.0"
     },
     {
       "name": "NHS App frontend",
