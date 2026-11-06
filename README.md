@@ -11,7 +11,7 @@ The following table shows the current version of [NHSUK Frontend](https://github
 | [MYS Admin](https://github.com/nhsbsa/mys-admin) | ^3.1.0 |  |
 | [NHSBSA Design System](https://github.com/nhsbsa/design-system) | ^3.1.0 |  |
 | [NHS Digital service manual](https://github.com/nhsuk/nhsuk-service-manual) | ^10.7.1 | 10.7.1 |
-| [NHS.UK Frontend Jinja](https://github.com/NHSDigital/nhsuk-frontend-jinja) | ^10.7.0 | 10.7.0 |
+| [NHS.UK Frontend Jinja](https://github.com/NHSDigital/nhsuk-frontend-jinja) | ^10.7.1 | 10.7.1 |
 | [NHS.UK Prototype kit package](https://github.com/nhsuk/nhsuk-prototype-kit-package) | ^10.7.0 | 10.7.0 |
 | [NHS App frontend](https://github.com/nhsuk/nhsapp-frontend) | ^10.6.1 | 10.6.1 |
 | [Exemption Checker](https://github.com/nhsbsa/exemption-checker) | ^10.6.0 | 10.6.1 |
