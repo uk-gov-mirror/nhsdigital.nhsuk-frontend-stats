@@ -41,8 +41,8 @@
     {
       "name": "NHS App frontend",
       "github": "https://github.com/nhsuk/nhsapp-frontend",
-      "nhsukFrontendVersion": "^10.6.1",
-      "nhsFrontendVersionPackageLock": "10.6.1"
+      "nhsukFrontendVersion": "^10.7.1",
+      "nhsFrontendVersionPackageLock": "10.7.1"
     },
     {
       "name": "NHS.UK Prototype kit package",
@@ -75,8 +75,8 @@
     {
       "name": "Apply for Healthy Start vouchers",
       "github": "https://github.com/nhsbsa/apply-healthy-start-vouchers",
-      "nhsukFrontendVersion": "^10.4.2",
-      "nhsFrontendVersionPackageLock": "10.4.2"
+      "nhsukFrontendVersion": "^10.6.1",
+      "nhsFrontendVersionPackageLock": "10.7.2"
     },
     {
       "name": "Manage Healthy Start vouchers",
