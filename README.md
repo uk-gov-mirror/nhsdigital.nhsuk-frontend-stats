@@ -10,11 +10,11 @@ The following table shows the current version of [NHSUK Frontend](https://github
 | [NHSBSA Frontend](https://github.com/nhsbsa/nhsbsa-frontend) | ^4.1.0 |  |
 | [MYS Admin](https://github.com/nhsbsa/mys-admin) | ^3.1.0 |  |
 | [NHSBSA Design System](https://github.com/nhsbsa/design-system) | ^3.1.0 |  |
+| [Apply for Healthy Start vouchers](https://github.com/nhsbsa/apply-healthy-start-vouchers) | ^10.7.2 | 10.7.2 |
 | [NHS Digital service manual](https://github.com/nhsuk/nhsuk-service-manual) | ^10.7.2 | 10.7.2 |
 | [NHS.UK Frontend Jinja](https://github.com/NHSDigital/nhsuk-frontend-jinja) | ^10.7.2 | 10.7.2 |
 | [NHS.UK Prototype kit package](https://github.com/nhsuk/nhsuk-prototype-kit-package) | ^10.7.2 | 10.7.2 |
 | [NHS App frontend](https://github.com/nhsuk/nhsapp-frontend) | ^10.7.1 | 10.7.1 |
-| [Apply for Healthy Start vouchers](https://github.com/nhsbsa/apply-healthy-start-vouchers) | ^10.6.1 | 10.7.2 |
 | [Exemption Checker](https://github.com/nhsbsa/exemption-checker) | ^10.6.0 | 10.6.1 |
 | [Help with Health Costs certificate manager](https://github.com/nhsbsa/hwhc-certificate-manager) | ^10.6.0 | 10.6.1 |
 | [HRT Prepayment Certificate](https://github.com/nhsbsa/HRT-PPC) | ^10.6.0 | 10.7.1 |

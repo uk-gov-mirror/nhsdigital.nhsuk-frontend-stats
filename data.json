@@ -75,7 +75,7 @@
     {
       "name": "Apply for Healthy Start vouchers",
       "github": "https://github.com/nhsbsa/apply-healthy-start-vouchers",
-      "nhsukFrontendVersion": "^10.6.1",
+      "nhsukFrontendVersion": "^10.7.2",
       "nhsFrontendVersionPackageLock": "10.7.2"
     },
     {
